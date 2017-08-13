@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<products>
+    <product name="equaline" price="520.45" seller="Ann Stevens"/>
+    <product name="Extra Strength Pain Reliever PM" price="542.72" seller="Schmidt"/>
+    <product name="PLANTAGO LANCEOLATA POLLEN" price="561.68" seller="Bennett"/>
+    <product name="Topiramate" price="578.77" seller="Jonathan Rodriguez"/>
+    <product name="Ketorolac Tromethamine" price="608.18" seller="Baker"/>
+    <product name="No7 Protect and Perfect Foundation Sunscreen Broad Spectrum SPF 15 Cool Ivory" price="616.19" seller="Sarah Day"/>
+    <product name="Glipizide" price="621.78" seller="Thompson"/>
+    <product name="AMARANTHUS PALMERI POLLEN" price="623.16" seller="Anna Clark"/>
+    <product name="ziprasidone hydrochloride" price="628.66" seller="Jonathan Rodriguez"/>
+    <product name="Imipramine Hydrochloride" price="648.69" seller="Eugene Stewart"/>
+    <product name="ENBREL" price="673.97" seller="Carl Daniels"/>
+    <product name="Ampicillin" price="674.63" seller="Rachel Johnson"/>
+    <product name="PRIMAXIN" price="686.66" seller="Betty Ward"/>
+    <product name="CLARINS Ever Matte SPF 15 - 105 Nude" price="696.06" seller="Ann Stevens"/>
+    <product name="Meloxicam" price="809.18" seller="Amanda Frazier"/>
+    <product name="LV-FX" price="820.87" seller="Fred Barnes"/>
+    <product name="IOPE SUPER VITAL" price="824.68" seller="Marie Williamson"/>
+    <product name="Shopko Lip Treatment" price="861.42" seller="Carl Daniels"/>
+    <product name="Ranitidine" price="926.64" seller="Cunningham"/>
+    <product name="Care One Hemorrhoidal" price="932.18" seller="Amanda Frazier"/>
+    <product name="Spironolactone" price="933.69" seller="Bonnie Fox"/>
+    <product name="Glipizide and Metformin Hydrochloride" price="953.60" seller="Amanda Frazier"/>
+    <product name="Metformin Hydrochloride" price="953.99" seller="Sarah Day"/>
+    <product name="NEO-POLY-BAC HYDRO" price="967.32" seller="Anna Parker"/>
+    <product name="Dawn Ultra Antibacterial Hand" price="969.86" seller="Bennett"/>
+    <product name="Smooth texture Orange flavor" price="976.65" seller="Wanda Harris"/>
+</products>
